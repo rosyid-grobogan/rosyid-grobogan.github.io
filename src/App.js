@@ -130,7 +130,7 @@ class AboutMe extends Component {
       <div id="divaboutme" className="jumbotron jumbotron-fluid m-0">
         <div className=" container container-fluid p-5">
           <div className="row">
-            <div className=" col-5 d-none d-lg-block align-self-center">
+            <div className="  col-lg-5 text-center">
               <img
                 className=" border border-secondary rounded-circle"
                 src={this.state.instaProfilePic}
