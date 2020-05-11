@@ -1,0 +1,40 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "devIntro": "Rosyid Ridho",
+  "devDesc": "Software Developer",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "icons": [
+    {
+      "id": 0,
+      "image": "fa-github",
+      "url": "https://github.com/rosyid-grobogan/",
+      "style": "socialicons"
+    },
+    {
+      "id": 1,
+      "image": "fa-facebook",
+      "url": "#",
+      "style": "socialicons"
+    },
+    {
+      "id": 2,
+      "image": "fa-instagram",
+      "url": "#",
+      "style": "socialicons"
+    },
+    {
+      "id": 3,
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/rosyid-ridho",
+      "style": "socialicons"
+    }
+  ],
+  "instaLink": "https://www.instagram.com/",
+  "instaUsername": "rosyidgrobogan",
+  "instaQuerry": "/?__a=1",
+  "aboutDev": "A passionate Software Developer who is looking for decent development related job. Has has skills in web-delelopment and Restful API, and currently working on Spring Boot, Laravel, Vue.js, Bootstrap. And also Java, PHP, PostgreSQL, MySQL, HTML, CSS, JavaScript etc.",
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "rosyid-grobogan",
+  "gitHubQuerry": "/repos?sort=updated&direction=desc"
+}
