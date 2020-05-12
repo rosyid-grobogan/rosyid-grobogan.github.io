@@ -13,20 +13,20 @@
     },
     {
       "id": 1,
-      "image": "fa-facebook",
-      "url": "#",
+      "image": "fa-gitlab",
+      "url": "https://gitlab.com/rosyid-grobogan",
       "style": "socialicons"
     },
     {
       "id": 2,
-      "image": "fa-instagram",
-      "url": "#",
+      "image": "fa-blogger",
+      "url": "https://rosyidgrobogan.blogspot.com",
       "style": "socialicons"
     },
     {
       "id": 3,
       "image": "fa-linkedin",
-      "url": "https://www.linkedin.com/in/rosyid-ridho",
+      "url": "https://www.linkedin.com/in/rosyid-grobogan",
       "style": "socialicons"
     }
   ],
